@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Montserrat-Regular"; /* Имя шрифта */
+    src: url(../fonts/Montserrat-Regular.ttf); /* Путь к файлу со шрифтом */
+}
+
+body {
+	margin: 0;
+	background-color: #065be2;
+}
+
+header {
+	border-bottom: 1.5px solid white;
+}
+
+header p {
+	font-family: "Montserrat-Regular";
+	font-size: 100px;
+	color: white;
+	text-align: center;
+	margin: 0;
+}
